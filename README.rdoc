@@ -1,0 +1,4 @@
+= Period Analysis
+
+Perl version of my Honor's Thesis Visual Basic sofware.
+
