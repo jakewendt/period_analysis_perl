@@ -1,6 +1,7 @@
 = Period Analysis
 
-Perl version of my Honor's Thesis Visual Basic sofware.
+Perl version of my 
+{Senior Honor's Thesis Visual Basic software}[http://github.com/jakewendt/period_analysis_vb].
 This is version 4.0.  I have a newer version that I need to include.
 
 == Testing
