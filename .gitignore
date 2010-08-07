@@ -1,2 +1,5 @@
 versions/
 .svn/
+unit_test/out/
+unit_test/outref/
+unit_test/test_data/

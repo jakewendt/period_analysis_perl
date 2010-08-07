@@ -1,4 +1,9 @@
 = Period Analysis
 
 Perl version of my Honor's Thesis Visual Basic sofware.
+This is version 4.0.  I have a newer version that I need to include.
+
+== Testing
+
+ make test
 
