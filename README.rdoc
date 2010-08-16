@@ -8,3 +8,18 @@ This is version 4.0.  I have a newer version that I need to include.
 
  make test
 
+== Added Files (which are probably duplicate or old)
+
+* css/
+* fn.pl
+* index.html
+* js/
+* pgm.pl
+* pgm_all.pl
+* qdp2qdp.pl
+
+== Other unincluded files
+
+* QDP/ (166MB) ISDC Data files
+* PeransoUserManual.pdf
+

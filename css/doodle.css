@@ -1,0 +1,58 @@
+
+body {
+	width: 100%;
+	padding: 0;
+	margin: 0px auto;
+	text-align: center;
+}
+
+#header { 
+	background-color: black;
+	color: white;
+	font-size: 72pt; 
+	text-align: center;
+	padding: 10px;
+}
+
+#content {
+	margin: 0px auto;
+	text-align: center;
+	width: 600px;
+}
+
+#pallet {
+	position: absolute;
+	left: 0px;
+	margin: 10px;
+}
+
+#doodle {
+	position: absolute;
+	left: 90px;
+	float: center;
+	float: left;
+	margin: 10px;
+	border: 5px solid black;
+	background-image: url(transparent.png);
+}
+#doodle tbody, 
+#doodle tbody tr, 
+#doodle tbody tr td {
+	border: 0px;
+	margin: 0px;
+	padding: 0px;
+}
+table tbody tr td {
+	height: 15px;
+	width: 14px;
+}
+
+form.main {
+	background-color: silver;
+	border: 1px solid gray;
+	padding: 10px;
+	margin: 0px auto;
+}
+form.main input {
+	margin: 5px;
+}
