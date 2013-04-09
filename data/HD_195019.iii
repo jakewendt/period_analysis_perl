@@ -1,0 +1,34 @@
+"Version 3"
+"Name"
+"Time (days)","Rad. Vel."
+19
+1004.874,270.61
+1006.883,146.82
+1026.844,-11.26
+1027.869,-70.12
+1045.836,-34.42
+1068.852,-222.53
+1069.893,-185.77
+1070.913,-106.85
+1071.849,0
+1072.837,92.42
+1074.857,244.19
+1075.795,292.32
+1076.733,325.68
+1077.802,262.04
+1078.748,257.65
+1079.786,174.9
+1081.675,-3.4
+1082.669,-79.72
+1101.719,-150
+"Radial Velocities for HD 195019
+
+Suggested Period of 18.27 days
+
+I got 18.27052 days.  Obviously sigfigs are questionable.
+
+From PASP 111 page 52, January 1999
+
+Times are JD -2 450 000
+Velocites in  m/s
+Telescopes used include Shane, Keck, CAT"

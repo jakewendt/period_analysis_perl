@@ -1,0 +1,36 @@
+"Version 3"
+"Name"
+"Time (days)","Rad. Vel."
+21
+1005.962,-76.55
+1006.967,-68.69
+1014.918,-29.73
+1025.98,39.86
+1027.941,-61.34
+1049.811,-73.7
+1068.86,54.01
+1069.973,-41.24
+1070.954,-49.35
+1071.869,-6.99
+1072.929,101.97
+1074.87,195.79
+1075.826,71.13
+1076.8,-35.83
+1077.872,-56.74
+1078.817,0
+1079.724,71.96
+1079.859,92.17
+1081.743,225.55
+1100.756,35.9
+1101.759,127.44
+"Radial Velocities for HD 217107
+
+Suggested Period of 7.12 days
+
+I got 7.109004 days.  Obviously sigfigs are questionable.
+
+From PASP 111 page 54, January 1999
+
+Times are JD -2 450 000
+Velocites in  m/s
+Telescopes used include Shane, Keck, CAT"
